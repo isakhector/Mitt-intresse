@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    margin: 0;
+}
+
+.flex-container{
+    background-color: rgb(173, 173, 173);
+    display: flex;
+    justify-content: flex-end;
+    gap: 5vw;
+}
+

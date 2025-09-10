@@ -1,16 +1,72 @@
+/* Some setting up */
+
 *{
     box-sizing: border-box;
 
 }
-
 body{
     margin: 0;
 }
 
-.flex-container{
-    background-color: rgb(173, 173, 173);
+
+/* Top buttons */
+.buttons{
+    gap: 0.1%;
     display: flex;
     justify-content: flex-end;
-    gap: 5vw;
+    text-align: center;
+    background-color: rgb(205, 205, 205);
 }
 
+h3{
+    margin-right: 3vw;
+    background-color: black;
+    padding: 1vw;
+    border-radius: 1vw;
+    color: white;
+    font-weight: bold;
+}
+h3:hover{
+    color: rgb(115, 115, 115);
+    background-color: rgb(33, 33, 33);
+}
+
+a{
+    color: black;
+}
+
+/* First section */
+.textnimg{
+    display: flex;
+    justify-content: center;
+    margin: 3vw;
+    gap: 3vw;
+    font-size: 1.5vw;
+}
+
+h1{
+    font-size: 5vw;
+}
+
+img{
+    border-radius: 1vw;
+    width: 20vw;
+}
+
+
+/* Divider */
+h5{
+    visibility: hidden;
+    font-size: 2px;
+}
+.divider{
+        background-color: rgb(228, 228, 228);
+
+}
+
+/* Section 2 */
+
+.text2{
+    margin: 3vw;
+    font-size: 1.5vw;
+}

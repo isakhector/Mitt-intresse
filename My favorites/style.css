@@ -33,3 +33,21 @@ h3:hover{
 a{
     color: black;
 }
+
+.toptext{
+    margin: 3vw;
+    gap: 3vw;
+    font-size: 1.5vw;
+}
+
+/* Divider */
+h5{
+    visibility: hidden;
+    font-size: 2px;
+}
+.divider{
+    background-color: rgb(228, 228, 228);
+    border-radius: 2px;
+    margin-left: 2vw;
+    margin-right:2vw;
+}

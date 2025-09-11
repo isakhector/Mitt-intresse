@@ -1,5 +1,4 @@
 /* Some setting up */
-
 *{
     box-sizing: border-box;
 
@@ -8,21 +7,20 @@ body{
     margin: 0;
 }
 
-
 /* Top buttons */
 .buttons{
     gap: 0.1%;
     display: flex;
     justify-content: flex-end;
     text-align: center;
-    background-color: rgb(205, 205, 205);
+    background-color: rgb(224, 224, 224);
 }
 
 h3{
     margin-right: 3vw;
     background-color: black;
     padding: 1vw;
-    border-radius: 1vw;
+    border-radius: 0.5vw;
     color: white;
     font-weight: bold;
 }
@@ -53,7 +51,6 @@ img{
     width: 20vw;
 }
 
-
 /* Divider */
 h5{
     visibility: hidden;
@@ -61,11 +58,9 @@ h5{
 }
 .divider{
         background-color: rgb(228, 228, 228);
-
 }
 
 /* Section 2 */
-
 .text2{
     margin: 3vw;
     font-size: 1.5vw;

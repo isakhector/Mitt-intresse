@@ -49,14 +49,14 @@ h6{
     visibility: hidden;
     font-size: 2px;
 }
-.divider, .divider2, .divider3, .divider4{
+.divider, .divider2, .divider3, .divider4, .divider5{
     background-color: rgb(228, 228, 228);
     border-radius: 2px;
     margin-left: 3vw;
     margin-right:3vw;
 }
 
-.divider2, .divider3, .divider4{
+.divider2, .divider3, .divider4, .divider5{
     margin-top: 2vw;
 }
 img{
@@ -68,7 +68,11 @@ h2{
     font-size: 3vw;
 }
 
-.n10, .n9, .n8{
+p{
+    font-size:1.5vw;
+}
+
+.n10, .n9, .n8, .n7{
     margin-left: 3vw;
     margin-right: 20%;
 }

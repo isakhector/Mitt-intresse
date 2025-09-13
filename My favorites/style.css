@@ -34,6 +34,10 @@ a{
     color: black;
 }
 
+a:hover{
+    color: rgb(33, 33, 33)
+}
+
 .toptext{
     margin: 3vw;
     gap: 3vw;
@@ -49,16 +53,18 @@ h6{
     visibility: hidden;
     font-size: 2px;
 }
-.divider, .divider2, .divider3, .divider4, .divider5{
+.divider, .divider2, .divider3, .divider4, .divider5, .divider6, .divider7, .divider8, .divider9, .divider10, .divider11{
     background-color: rgb(228, 228, 228);
     border-radius: 2px;
     margin-left: 3vw;
     margin-right:3vw;
 }
 
-.divider2, .divider3, .divider4, .divider5{
+.divider2, .divider3, .divider4, .divider5, .divider6, .divider7, .divider8, .divider9, .divider10, .divider11 {
     margin-top: 2vw;
 }
+
+/* Styling images and text in the list */
 img{
     border-radius: 1vw;
     width: 25vw;
@@ -72,7 +78,7 @@ p{
     font-size:1.5vw;
 }
 
-.n10, .n9, .n8, .n7{
+.n10, .n9, .n8, .n7, .n6, .n5, .n4, .n3, .n2, .n1{
     margin-left: 3vw;
     margin-right: 20%;
 }

@@ -34,6 +34,10 @@ a{
     color: black;
 }
 
+a:hover{
+    color: rgb(33, 33, 33)
+}
+
 /* First section */
 .textnimg{
     display: flex;

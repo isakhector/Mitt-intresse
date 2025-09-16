@@ -37,3 +37,50 @@ a{
 a:hover{
     color: rgb(33, 33, 33)
 }
+
+/* Styling section 1 */
+
+.toptext{
+    margin: 3vw;
+    gap: 3vw;
+    font-size: 1.5vw;
+}
+
+p{
+    font-size:1.5vw;
+}
+
+h1{
+    font-size: 5vw;
+}
+
+/* Dividers */
+h6{
+    visibility: hidden;
+    font-size: 2px;
+}
+.d,.d2,.d3,.d4,.d5,.d6,.d7,.d8,.d9,.d10,.d11,.d12,.d13,.d14,.d15{
+    background-color: rgb(228, 228, 228);
+    border-radius: 2px;
+    margin-left: 3vw;
+    margin-right:3vw;
+}
+
+.d2,.d3,.d4,.d5,.d6,.d7,.d8,.d9,.d10,.d11,.d12,.d13,.d14,.d15{
+    margin-top: 2vw;
+}
+
+/* Styling images and text in the list */
+img{
+    border-radius: 1vw;
+    width: 25vw;
+}
+
+h2{
+    font-size: 3vw;
+}
+
+.i1,.i2,.i3,.i4,.i5,.i6,.i7,.i8,.i9,.i10,.i11,.i12,.i13,.i14,.i15,.i16,.i17,.i18,.i19,.i20{
+    margin-left: 3vw;
+    margin-right: 20%;
+}

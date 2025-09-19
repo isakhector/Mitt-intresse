@@ -72,8 +72,14 @@ h6{
 
 /* Styling images and text in the list */
 img{
+    border: 2px solid #a1a1a1;
     border-radius: 1vw;
     width: 25vw;
+}
+
+img:hover{
+    border-color: black;
+    border-style:groove;
 }
 
 h2{

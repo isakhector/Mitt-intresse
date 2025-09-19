@@ -45,6 +45,7 @@ a:hover{
     margin: 3vw;
     gap: 3vw;
     font-size: 1.5vw;
+    
 }
 
 h1{
@@ -54,6 +55,13 @@ h1{
 img{
     border-radius: 1vw;
     width: 20vw;
+    border: 2px solid #a1a1a1;
+    border-radius: 1vw;
+}
+
+img:hover{
+    border-color: black;
+    border-style:groove;
 }
 
 /* Dividers */

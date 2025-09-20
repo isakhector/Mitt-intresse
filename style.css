@@ -69,7 +69,7 @@ h5{
     visibility: hidden;
     font-size: 2px;
 }
-.divider, .divider2{
+.divider, .divider2, .divider3{
     background-color: rgb(228, 228, 228);
     border-radius: 2px;
     margin-left: 2vw;
@@ -78,6 +78,13 @@ h5{
 
 /* Section 2 */
 .text2{
+    margin: 3vw;
+    margin-right: 10vw;
+    font-size: 1.5vw;
+}
+
+/* Section 3 */
+.text3{
     margin: 3vw;
     margin-right: 10vw;
     font-size: 1.5vw;

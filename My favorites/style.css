@@ -53,15 +53,21 @@ h6{
     visibility: hidden;
     font-size: 2px;
 }
-.divider, .divider2, .divider3, .divider4, .divider5, .divider6, .divider7, .divider8, .divider9, .divider10, .divider11, .divider12, .divider13, .divider14, .divider15, .divider16 {
+.divider, .divider2, .divider3, .divider4, .divider5, .divider6, .divider7, .divider8, .divider9, .divider10, .divider11, .divider12, .divider13, .divider14, .divider15 {
     background-color: rgb(228, 228, 228);
     border-radius: 2px;
     margin-left: 3vw;
     margin-right:3vw;
 }
 
-.divider2, .divider3, .divider4, .divider5, .divider6, .divider7, .divider8, .divider9, .divider10, .divider11, .divider12, .divider13, .divider14, .divider15, .divider16 {
+.divider2, .divider3, .divider4, .divider5, .divider6, .divider7, .divider8, .divider9, .divider10, .divider11, .divider12, .divider13, .divider14, .divider15 {
     margin-top: 2vw;
+}
+
+.bottom{
+    margin-top: 2vw;
+    background-color: rgb(228, 228, 228);
+    padding: 2vw;
 }
 
 /* Styling images and text in the list */
